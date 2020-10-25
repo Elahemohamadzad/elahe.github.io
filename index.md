@@ -8,11 +8,11 @@ I whant learning new things every day.
 
 ### Personal Information
 
--First Name:Elahe
--Last Name:Mohamadzadeh
--Birth Date:1999/06/11
--Job Status:Part-time
--Marriage Status:Married
+-First Name:Elahe.
+-Last Name:Mohamadzadeh.
+-Birth Date:1999/06/11.
+-Job Status:Part-time.
+-Marriage Status:Married.
 
 ### Skill
 
